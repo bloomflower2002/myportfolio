@@ -32,7 +32,7 @@ const Header = ({ activeSection, setActiveSection }) => {
         <a href="https://www.instagram.com/misssoooo0/" target="_blank" rel="noopener noreferrer" title="Instagram">
           <FaInstagram />
         </a>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" title="GitHub">
+        <a href="https://github.com/bloomflower2002" target="_blank" rel="noopener noreferrer" title="GitHub">
           <FaGithub />
         </a>
         <a href="https://www.linkedin.com/in/bontu-gidi-aa595b302/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
